@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Exchanger:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Exchanger_jar</output-path>
+    <root id="archive" name="Exchanger.jar">
+      <element id="module-output" name="Exchanger" />
+    </root>
+  </artifact>
+</component>
